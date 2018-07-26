@@ -15,6 +15,6 @@ hello.jsp
 SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd hh:mm:ss");
 
 %>
-<h3>Current Time : <%=sdf.format(date) %></h3>
+<h3 style="color: blue">Current Time : <%=sdf.format(date) %></h3>
 </body>
 </html>
