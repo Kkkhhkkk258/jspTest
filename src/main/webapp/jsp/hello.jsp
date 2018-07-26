@@ -9,7 +9,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h2>Hello World!!</h2>
+<h2>Hello world!!</h2>
 <%Date date = new Date(); 
 SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd hh:mm:ss");
 
