@@ -11,7 +11,7 @@
 <body>
 hello.jsp
 
-<%Date date = new Date(); 
+<%Date date = new Date();
 SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd hh:mm:ss");
 
 %>
